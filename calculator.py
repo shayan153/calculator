@@ -1,3 +1,4 @@
+#Developed by Shayan
 #nokte: in mashin hesab faghat ta 2 adad suport mikonad
 def hesab():
     l=input('''
@@ -37,7 +38,7 @@ age na bezan 'N'
     if m.upper()=='Y':
         hesab()
     elif m.upper()=='N':
-        print('mamnoon az entekhabeton va khodangahdar')
+        print('mamnoon az entekhabeton va beomiddidar :)')
     else:
         again()
 hesab()
