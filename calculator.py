@@ -1,4 +1,5 @@
-#Developed by Shayan 
+#Developed by Shayan
+#calculator
 #nokte: in mashin hesab faghat ta 2 adad suport mikonad
 def hesab():
     l=input('''
