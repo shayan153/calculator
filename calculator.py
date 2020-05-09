@@ -1,5 +1,5 @@
 #Developed by Shayan
-#calculator
+#calculator persian
 #nokte: in mashin hesab faghat ta 2 adad suport mikonad
 def hesab():
     l=input('''
