@@ -17,4 +17,14 @@
 
 #python calPersian.py
 
+
+USE
+
+baray jam kardan adad bezanid '+'
+hatman dakhel koteyshen ' '!!!
+bray tafrigh '-'
+bray zarb '* '
+bray taghsim '/'
+
+
 #END
