@@ -6,3 +6,15 @@
 #va omidvarm khosheton biad az in mashin hesab sadey man
 #the developened shayan
 # :) :) :) :) :) :)
+
+Download&install
+
+git clone https://github.com/shayan153/calculator.git
+
+chmod +x *
+
+pip install -r requirements.txt
+
+python calPersian.py
+
+#END

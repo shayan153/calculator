@@ -1,0 +1,4 @@
+colorama==0.4.3
+pkg-resources==0.0.0
+regex==2020.5.7
+requestes==0.0.1
