@@ -7,14 +7,14 @@
 #the developened shayan
 # :) :) :) :) :) :)
 
-Download&install
+#Download&install
 
-git clone https://github.com/shayan153/calculator.git
+#git clone https://github.com/shayan153/calculator.git
 
-chmod +x *
+#chmod +x *
 
-pip install -r requirements.txt
+#pip install -r requirements.txt
 
-python calPersian.py
+#python calPersian.py
 
 #END
