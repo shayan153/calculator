@@ -51,8 +51,8 @@ baray tafrigh bezan-----{'-'}
 baray zarb bezan---{'*'}
 baray taghsim bezan----------{'/'}
 == ''')
-    number1=float(input('Enter Number ='))
-    number2=float(input('Enter Number ='))
+    number1=float(input(color_random[3]+'Enter Number ='))
+    number2=float(input(color_random[3]+'Enter Number ='))
     if l=='+':
         print(number1+number2)
     elif l=='-':
@@ -75,13 +75,13 @@ tafrigh:- ''')
 def again():
     m=input(color_random[4]+'''
 aya dost darid baz hesab konid
-age are bezan 'Y'
-age na bezan 'N'
+age are bezan a---{'Y'}
+age na bezan----{'N'}
 == ''')
     if m.upper()=='Y':
         hesab()
     elif m.upper()=='N':
-        print('mamnoon az entekhabeton va beomiddidar :)')
+        print(color_random[6]+'mamnoon az entekhabeton va beomiddidar :)')
     else:
         again()
 hesab()
